@@ -1,3 +1,5 @@
-Hallo,
+Guten Tag,
 
 das hier könnte Programmcode sein.
+
+Hier stehen weitere Informationen.
