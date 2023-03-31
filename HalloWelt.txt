@@ -1,3 +1,17 @@
-Hier steht ein Text!
-Hier ist noch mehr Text!!
-Hier ist noch viel mehr Text!!!
+2 / 2
+
+If you're able to follow sites in SharePoint Online and receive notifications of changes to those sites, but are still receiving an error message that SharePoint is unable to get the list of sites that you are following, there could be several reasons for this issue. Here are a few things you can try to troubleshoot the problem:
+
+    Clear cache and cookies: Clear your browser's cache and cookies and try to access SharePoint again.
+
+    Use a different browser: Try to access SharePoint in a different browser to see if the issue is related to your current browser.
+
+    Check your network connection: Ensure that your internet connection is stable and strong enough to access SharePoint.
+
+    Verify your permissions: Ensure that you have appropriate permissions to access the site you're trying to follow. You may need to contact your SharePoint administrator to verify your permissions.
+
+    Check for any service outages: Check the SharePoint Online service status page to ensure there are no ongoing service outages that may be affecting the functionality of the "Follow" feature.
+
+    Try resetting your following list: You can try resetting your following list by going to your SharePoint Profile, selecting "Following," and then clicking on "Manage Followed Sites." From there, you can click on "Stop Following All" and then re-follow the sites you're interested in.
+
+If none of the above steps resolves the issue, you may need to contact Microsoft support for further assistance.
